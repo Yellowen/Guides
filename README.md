@@ -34,9 +34,6 @@ Contributing
 
 Please read the [contribution guidelines] before submitting a pull request.
 
-In particular: **if you have commit access, please don't merge changes without
-waiting a week for everybody to leave feedback**.
-
 [contribution guidelines]: /CONTRIBUTING.md
 
 Credits
@@ -44,14 +41,14 @@ Credits
 
 Thank you, [contributors](https://github.com/Yellowen/guides/graphs/contributors)!
 
-![Yellowen](http://Yellowen.com/images/tm/logo.png)
-
-Guides is maintained by [Yellowen, inc](http://Yellowen.com/community).
+![Yellowen](http://www.yellowen.com/images/logo.png)
 
 License
 -------
 
-Guides is © 2014 Yellowen, inc. It is distributed under the [Creative Commons
+These guides are based on thoughtbot's guide docs.
+
+Changed mades on these docs are © 2014-106 Yellowen. It is distributed under the [Creative Commons
 Attribution License](http://creativecommons.org/licenses/by/3.0/).
 
-The names and logos for Yellowen are trademarks of Yellowen, inc.
+The names and logos for Yellowen are trademarks of Yellowen.
